@@ -44,14 +44,6 @@ I enjoy turning ideas into interactive, efficient, and visually appealing digita
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rongrong16&show_icons=true&theme=tokyonight" alt="Rong’s GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rongrong16&layout=compact&theme=tokyonight" alt="Top Langs" height="180em"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/ron-aldrich-mendoza" target="_blank">
